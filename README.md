@@ -111,7 +111,7 @@ services:
       - app1
       - app2
       - app3
-  ```
+ ```
   
  ## Implementación 
  Una vez se tienen los archivos de configuración, con los siguientes comandos se ejecuta el servicio.
@@ -120,6 +120,8 @@ services:
 #docker-compose build .
 #docker-compose up
 ```
+
+
 ## Prueba de funcionamiento
 A continuación se adjuntan capturas del servicio funcionando.
 
