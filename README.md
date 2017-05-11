@@ -132,10 +132,12 @@ A continuación se adjuntan capturas del servicio funcionando.
 
 <p align="center">
   <img src="Imagenes/2.png" width="650"/><br>
-  <b>Captura 1. Web 2.</b><br><br>
+  <b>Captura 2. Web 2.</b><br><br>
 </p>
 
 <p align="center">
   <img src="Imagenes/3.png" width="650"/><br>
-  <b>Captura 1. Web 3.</b><br><br>
+  <b>Captura 3. Web 3.</b><br><br>
 </p>
+
+
