@@ -1,6 +1,3 @@
-## Parcial 2 - Sistemas Distribuidos
-## Cristian Felipe González - Cód. A00221904
-
 ## Descripción
 Se debe implementar un balanceador de carga para tres servidores web, haciendo uso de automatización de infraestructura mediante con contenedores usando Docker.  A continuación, tenemos la arquitectura de la solución
 
